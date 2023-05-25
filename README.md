@@ -17,8 +17,5 @@ After deploying I have used Azure Blob Storage to upload all the content of the 
 ![Screenshot (35)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/4d2ed3a0-3931-41f3-9d70-7b251f5d05e0)
 ![Screenshot (36)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/fff89556-1e53-4bbc-a774-38d9a104d5dc)
 ![Screenshot (37)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/fff89556-1e53-4bbc-a774-38d9a104d5dc)
-![Screenshot (38)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/fff89556-1e53-4bbc-a774-38d9a104d5dc)
-![Screenshot (39)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/fff89556-1e53-4bbc-a774-38d9a104d5dc)
-
-
-
+![Screenshot (38)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/16d97424-5e15-4a76-87ac-50472276ab42)
+![Screenshot (39)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/a3b63655-60d7-4c68-b96d-2c082dd3400a)
