@@ -11,7 +11,12 @@ AZURE LINK:https://delightful-desert-020d7f010.3.azurestaticapps.net
 ![Screenshot (54)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/ac251a7a-888b-4a00-b81c-9746eccaa32b)
 ![Screenshot (55)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/fa4f4266-fe71-4505-805e-9a6f13574e26)
 
+
+#AZURE BLOB STORAGE:
+
 After deploying I have used Azure Blob Storage to upload all the content of the website to my Storage account in Azure Portal Azure Blob Storage is a feature of Microsoft Azure.It allows users to store large amounts of unstructured data on Microsoft's data storage platform.
+
+
 
 ![Screenshot (34)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/e0085727-6ec7-4dce-bae1-ed571d5903d4)
 ![Screenshot (35)](https://github.com/ANJALIKOKAS/E-Shop/assets/107175066/4d2ed3a0-3931-41f3-9d70-7b251f5d05e0)
